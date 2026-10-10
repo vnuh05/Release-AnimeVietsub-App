@@ -1,9 +1,9 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.1.1",
-    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.1.1/AnimeVietSub-1.1.1.apk",
-    "sha256":  "aa8f5e1e6e87d8b9052e144de502dee5fed7b1d791c7d789c614ac76d532532d",
-    "sizeBytes":  3336372,
+    "versionCode":  4,
+    "versionName":  "1.1.2",
+    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.1.2/AnimeVietSub-1.1.2.apk",
+    "sha256":  "2ce862e1ebb9817de284043eb34f60f1542a544b7a5049a9a41fa943209b67dc",
+    "sizeBytes":  3550108,
     "minSdk":  24,
-    "changelog":  "• Phát lên TV/máy tính (Cast): điều khiển từ điện thoại (tua, dừng, âm lượng), tự phát tập kế\n• Giao diện mới cho máy tính bảng, màn hình lớn\n• Tự cập nhật ngay trong app\n• Sửa lỗi xác minh Cloudflare bị lặp"
+    "changelog":  "• Phím âm lượng của điện thoại chỉnh âm lượng TV khi đang cast\n• Điều khiển cast ngay trên thông báo và màn khoá\n• Mở lại app khi TV đang phát: tự nối lại, không phát lại từ đầu\n• Dừng cast / Xem trên máy: điện thoại phát tiếp đúng chỗ TV đang chiếu\n• Giao diện điều khiển cast mới, gọn và đẹp hơn\n• Sửa lỗi kẹt đang"
 }
