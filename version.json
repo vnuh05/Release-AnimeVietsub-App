@@ -1,0 +1,9 @@
+{
+    "versionCode":  3,
+    "versionName":  "1.1.1",
+    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.1.1/AnimeVietSub-1.1.1.apk",
+    "sha256":  "aa8f5e1e6e87d8b9052e144de502dee5fed7b1d791c7d789c614ac76d532532d",
+    "sizeBytes":  3336372,
+    "minSdk":  24,
+    "changelog":  "• Phát lên TV/máy tính (Cast): điều khiển từ điện thoại (tua, dừng, âm lượng), tự phát tập kế\n• Giao diện mới cho máy tính bảng, màn hình lớn\n• Tự cập nhật ngay trong app\n• Sửa lỗi xác minh Cloudflare bị lặp"
+}
