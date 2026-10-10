@@ -1,9 +1,9 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.1.2",
-    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.1.2/AnimeVietSub-1.1.2.apk",
-    "sha256":  "2ce862e1ebb9817de284043eb34f60f1542a544b7a5049a9a41fa943209b67dc",
-    "sizeBytes":  3550108,
+    "versionCode":  5,
+    "versionName":  "1.1.3",
+    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.1.3/AnimeVietSub-1.1.3.apk",
+    "sha256":  "9c93d5d1a7c9b16b23f432fcf1629badc4f8fe397d2d7a1582b20ea466017511",
+    "sizeBytes":  3773596,
     "minSdk":  24,
-    "changelog":  "• Phím âm lượng của điện thoại chỉnh âm lượng TV khi đang cast\n• Điều khiển cast ngay trên thông báo và màn khoá\n• Mở lại app khi TV đang phát: tự nối lại, không phát lại từ đầu\n• Dừng cast / Xem trên máy: điện thoại phát tiếp đúng chỗ TV đang chiếu\n• Giao diện điều khiển cast mới, gọn và đẹp hơn\n• Sửa lỗi kẹt đang"
+    "changelog":  "• Đăng nhập ngay trong app, không phải mở trình duyệt đầy quảng cáo\n• Nút Cast ở trang chủ và thanh bên: chọn TV, điều khiển TV mà không cần mở phim\n• Điều khiển TV như remote YouTube: điều hướng, OK, quay lại, trang chủ, giọng nói\n• Bàn phím điện thoại: gõ tới đâu TV tìm phim tới đó, hoặc điền vào ô đang chọn trên TV\n• Đăng nhập AnimeVietSub trên TV / máy tính bằng điện thoại: quét mã QR hoặc gõ mã 6 ký tự\n• Nhiều điện thoại cùng nối một TV: hiện máy nào đang cast"
 }
