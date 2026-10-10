@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "quizAnswers": [
+    { "keyword": "nhà giáo", "answer": "20/11" },
+    { "keyword": "tiền tệ", "answer": "VND" },
+    { "keyword": "ngôi sao|mấy cánh", "answer": "5" },
+    { "keyword": "trường sa|hoàng sa", "answer": "Việt Nam" },
+    { "keyword": "đẹp nhất có tên", "answer": "Bác Hồ" }
+  ],
+  "selectors": {},
+  "adblockRules": [],
+  "notice": null
+}
