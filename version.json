@@ -1,9 +1,9 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.1.6",
-    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.1.6/AnimeVietSub-1.1.6.apk",
-    "sha256":  "d955273962fa03a8f894e29c790d411b24d64e8fa4ae068f26a1910fa33c7f10",
-    "sizeBytes":  3789852,
+    "versionCode":  9,
+    "versionName":  "1.1.7",
+    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.1.7/AnimeVietSub-1.1.7.apk",
+    "sha256":  "52b4f616ea084d69c82f992d96d28f12e6011b64fedfdf90d8d77cded326a192",
+    "sizeBytes":  3789856,
     "minSdk":  24,
-    "changelog":  "• Remote điều khiển TV ổn định hơn khi Wi-Fi chập chờn: không còn dồn phím cũ lên TV khi mạng có lại\n• Màn Điều khiển TV dùng tốt hơn với trình đọc màn hình (TalkBack)\n• Sửa vài lỗi nhỏ, tăng độ ổn định"
+    "changelog":  "• Nút Chuột trên màn Điều khiển TV: dùng điện thoại làm chuột cho TV (bấm vào trang, ô xác minh…)\n• Chế độ Vuốt khi bật chuột: rê ngón di chuột tự do như bàn rê laptop, chạm để bấm, rê quá mép trên/dưới để cuộn\n• Khi TV cần xác minh, màn điều khiển hiện hướng dẫn bấm bằng con trỏ\n• Dùng cùng AnimeVietSub TV cho máy tính Windows 1.1.0 (tải ở mục Releases, tag pc-v1.1.0)"
 }
