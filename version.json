@@ -1,9 +1,9 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.1.3",
-    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.1.3/AnimeVietSub-1.1.3.apk",
-    "sha256":  "9c93d5d1a7c9b16b23f432fcf1629badc4f8fe397d2d7a1582b20ea466017511",
-    "sizeBytes":  3773596,
+    "versionCode":  6,
+    "versionName":  "1.1.4",
+    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.1.4/AnimeVietSub-1.1.4.apk",
+    "sha256":  "42b3ec6ae93000a26aa2da03df50f80f535cb791fabbbb8b3f39e6795b2e3af9",
+    "sizeBytes":  3789852,
     "minSdk":  24,
-    "changelog":  "• Đăng nhập ngay trong app, không phải mở trình duyệt đầy quảng cáo\n• Nút Cast ở trang chủ và thanh bên: chọn TV, điều khiển TV mà không cần mở phim\n• Điều khiển TV như remote YouTube: điều hướng, OK, quay lại, trang chủ, giọng nói\n• Bàn phím điện thoại: gõ tới đâu TV tìm phim tới đó, hoặc điền vào ô đang chọn trên TV\n• Đăng nhập AnimeVietSub trên TV / máy tính bằng điện thoại: quét mã QR hoặc gõ mã 6 ký tự\n• Nhiều điện thoại cùng nối một TV: hiện máy nào đang cast"
+    "changelog":  "• Giao diện mới: bo góc mềm mại, thanh điều hướng nổi gọn gàng chỉ có biểu tượng\n• Điều khiển TV mới với 2 chế độ: Nút bấm và Vuốt (như remote Google TV), có thẻ đang phát và âm lượng TV ngay trên màn điều khiển\n• Phím âm lượng của điện thoại chỉnh TV cả khi đang mở màn điều khiển\n• Sửa lỗi bấm nhanh trên remote làm TV chọn nhầm\n• TV không có chuột: hướng dẫn dùng remote để bấm ô xác minh trên TV\n• Ghép nối lại cùng một điện thoại không còn tạo dòng trùng trên TV\n• Điện thoại nằm ngang / máy tính bảng: thanh bên cuộn được, không bị cắt"
 }
