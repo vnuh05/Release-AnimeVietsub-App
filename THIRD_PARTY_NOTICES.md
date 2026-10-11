@@ -39,7 +39,7 @@ Toàn văn: [`licenses/APACHE-2.0.txt`](licenses/APACHE-2.0.txt).
 | qrcode | 1.5.4 | MIT | Ryan Day |
 | Material Icons (đường vẽ SVG) | | Apache-2.0 | Google LLC |
 
-Toàn văn Apache-2.0 và MIT ở thư mục [`licenses/`](licenses/).
+Toàn văn Apache-2.0 ở [`licenses/APACHE-2.0.txt`](licenses/APACHE-2.0.txt). Giấy phép (kèm thông báo bản quyền) của từng thư viện npm nằm trong gói cài, ở thư mục `node_modules/<thư viện>/` bên trong `resources/app.asar`.
 
 ## Không đóng gói
 
