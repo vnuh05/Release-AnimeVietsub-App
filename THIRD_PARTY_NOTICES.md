@@ -25,6 +25,22 @@ Toàn văn: [`licenses/APACHE-2.0.txt`](licenses/APACHE-2.0.txt).
 | --- | --- | --- | --- |
 | jsoup | 1.18.1 | © 2009-2024 Jonathan Hedley | [`licenses/jsoup-MIT.txt`](licenses/jsoup-MIT.txt) |
 
+## App máy tính (AnimeVietSub TV, Windows)
+
+| Thư viện | Phiên bản | Giấy phép | Bản quyền |
+| --- | --- | --- | --- |
+| Electron | 44.7.0 | MIT | GitHub Inc. và các tác giả Electron. Toàn văn trong `LICENSE.electron.txt` cạnh file chạy |
+| Chromium (kèm trong Electron) | theo Electron 44.7.0 | BSD-3-Clause và các giấy phép khác | The Chromium Authors. Toàn văn trong `LICENSES.chromium.html` cạnh file chạy |
+| hls.js | 1.7.3 | Apache-2.0 | Dailymotion và các tác giả hls.js |
+| cheerio | 1.2.0 | MIT | Matt Mueller và các tác giả cheerio |
+| Preact | 10.29.8 | MIT | Jason Miller |
+| htm | 3.1.1 | Apache-2.0 | Google LLC |
+| bonjour-service | 1.4.4 | MIT | Ole Herman Schumacher Elgesem, Mathias Buus |
+| qrcode | 1.5.4 | MIT | Ryan Day |
+| Material Icons (đường vẽ SVG) | | Apache-2.0 | Google LLC |
+
+Toàn văn Apache-2.0 và MIT ở thư mục [`licenses/`](licenses/).
+
 ## Không đóng gói
 
 - Danh sách chặn quảng cáo đi kèm app (`adblock.txt`) do tác giả app tự viết, không sao chép từ EasyList/uBlock.
