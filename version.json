@@ -1,9 +1,9 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.1.4",
-    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.1.4/AnimeVietSub-1.1.4.apk",
-    "sha256":  "42b3ec6ae93000a26aa2da03df50f80f535cb791fabbbb8b3f39e6795b2e3af9",
+    "versionCode":  7,
+    "versionName":  "1.1.5",
+    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.1.5/AnimeVietSub-1.1.5.apk",
+    "sha256":  "7ecdd6e2f197ee1248aef16a2cde6952d6fb85f86b7af464e462607db8ff11cb",
     "sizeBytes":  3789852,
     "minSdk":  24,
-    "changelog":  "• Giao diện mới: bo góc mềm mại, thanh điều hướng nổi gọn gàng chỉ có biểu tượng\n• Điều khiển TV mới với 2 chế độ: Nút bấm và Vuốt (như remote Google TV), có thẻ đang phát và âm lượng TV ngay trên màn điều khiển\n• Phím âm lượng của điện thoại chỉnh TV cả khi đang mở màn điều khiển\n• Sửa lỗi bấm nhanh trên remote làm TV chọn nhầm\n• TV không có chuột: hướng dẫn dùng remote để bấm ô xác minh trên TV\n• Ghép nối lại cùng một điện thoại không còn tạo dòng trùng trên TV\n• Điện thoại nằm ngang / máy tính bảng: thanh bên cuộn được, không bị cắt"
+    "changelog":  "• Sửa lỗi app tự thoát (văng) khi tải nhiều trang cùng lúc, nhất là trên máy tính bảng\n• Gồm toàn bộ nội dung bản 1.1.4: giao diện mới, điều khiển TV 2 chế độ, phím âm lượng chỉnh TV"
 }
