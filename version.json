@@ -5,5 +5,5 @@
     "sha256":  "586cc6b33119a61270936d419537adc175029480dd34c24356d66a27379c4f20",
     "sizeBytes":  3906364,
     "minSdk":  24,
-    "changelog":  "• Mới: thông báo trên điện thoại khi có bản mới hoặc tin quan trọng (đổi tên miền…) — app tự kiểm tra nền khoảng 3 giờ/lần, bấm vào là cập nhật\n• Mới: đếm số máy đang dùng app bằng tín hiệu ẩn danh (chỉ mã ngẫu nhiên + phiên bản app, không có tài khoản hay lịch sử xem) — tắt được ở Cài đặt → Quyền riêng tư\n• Bấm Kiểm tra cập nhật là thấy ngay bản vừa phát hành (không còn phải chờ tới 5 phút)\n• Android 13 trở lên: app hỏi quyền thông báo một lần"
+    "changelog":  "• Mới: thông báo trên điện thoại khi có bản mới hoặc tin quan trọng (đổi tên miền…) — app tự kiểm tra nền khoảng 3 giờ/lần, bấm vào là cập nhật\n• Mới: đếm số máy đang dùng app bằng tín hiệu ẩn danh (chỉ mã ngẫu nhiên + phiên bản app, không có tài khoản hay lịch sử xem) — tắt được ở Cài đặt → Quyền riêng tư\n• Android 13 trở lên: app hỏi quyền thông báo một lần"
 }
