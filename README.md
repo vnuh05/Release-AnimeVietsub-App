@@ -16,17 +16,17 @@ Kho này chứa **bản cài đặt (APK)** và **cấu hình từ xa** của �
 
 Biến PC/laptop thành "TV": giao diện kiểu YouTube TV để chọn và xem phim bằng bàn phím hoặc remote điện thoại, và **nhận cast từ app trên điện thoại** (cùng Wi-Fi). Cắm HDMI ra TV là xem trên TV.
 
-1. Vào [**bản PC mới nhất**](../../releases/tag/pc-v1.1.0) (các bản PC có tag bắt đầu bằng `pc-v`).
+1. Vào [**bản PC mới nhất**](../../releases/tag/pc-v1.2.0) (các bản PC có tag bắt đầu bằng `pc-v`).
 2. Tải một trong hai file:
    - `AnimeVietSub-TV-Setup-<phiên bản>.exe` để cài vào máy (không cần quyền quản trị).
    - `AnimeVietSub-TV-<phiên bản>-portable.exe` để chạy luôn, không cần cài.
 3. Windows 10/11 64-bit. File chưa ký số nên lần đầu có thể hiện **"Windows protected your PC"**: bấm **More info → Run anyway**. Mã SHA-256 của từng file ghi trong trang phát hành.
 
-Bản PC chưa tự cập nhật. Khi có bản mới, tải và cài đè lên; dữ liệu (điện thoại đã ghép nối, đăng nhập, cài đặt) được giữ nguyên.
+Từ bản PC **1.2.0**, app tự kiểm tra bản mới (khi mở + 6 giờ/lần), báo ở khay hệ thống và trong **Cài đặt → Phiên bản & cập nhật**; bản cài đặt tự tải (kiểm dung lượng + SHA-256), cài đè rồi mở lại, bản portable thì mở trang tải. Bản 1.1.0 trở về trước: tải và cài đè 1.2.0 một lần; dữ liệu (điện thoại đã ghép nối, đăng nhập, cài đặt) được giữ nguyên.
 
 ## Cập nhật
 
-- App **tự kiểm tra bản mới** khi mở (tối đa 12 giờ/lần) và hỏi trước khi tải. Muốn kiểm tra ngay: **Tài khoản → Cài đặt → Kiểm tra cập nhật**.
+- App **tự kiểm tra bản mới** khi mở (tối đa 12 giờ/lần) và hỏi trước khi tải. Từ 1.3.0 còn kiểm tra nền khoảng 3 giờ/lần và **hiện thông báo** khi có bản mới, kể cả lúc app đã đóng. Muốn kiểm tra ngay: **Tài khoản → Cài đặt → Kiểm tra cập nhật**.
 - Bản cập nhật tải từ mục Releases của kho này. App kiểm tra **kích thước** và **mã SHA-256** của file trước khi mở trình cài đặt. Android chỉ cho cài đè khi bản mới **ký cùng khoá** với bản đang cài.
 - Android không cho cài ngầm: bạn bấm **Cài đặt** một lần. Lần đầu, Android sẽ hỏi cho phép AnimeVietSub cài ứng dụng.
 - Cập nhật giữ nguyên dữ liệu (đăng nhập, lịch sử, tủ phim, phim đã tải).
