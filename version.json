@@ -1,9 +1,9 @@
 {
-    "versionCode":  11,
-    "versionName":  "1.2.1",
-    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.2.1/AnimeVietSub-1.2.1.apk",
-    "sha256":  "c247affa4ee8db1468d901344b7ca715810b239f1b3a01cb1c8cbbb3f6d5f35e",
-    "sizeBytes":  3822624,
+    "versionCode":  12,
+    "versionName":  "1.3.0",
+    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.3.0/AnimeVietSub-1.3.0.apk",
+    "sha256":  "586cc6b33119a61270936d419537adc175029480dd34c24356d66a27379c4f20",
+    "sizeBytes":  3906364,
     "minSdk":  24,
-    "changelog":  "• Sửa: cùng một phim hiện 2 lần ở Xem tiếp (do AVS đổi tên miền .nl → .news hoặc mở phim từ link tập)\n• Lịch sử xem, dấu tập đã xem và tủ phim tự chuyển sang tên miền đang dùng — không còn mất dấu khi AVS đổi tên miền\n• Nhóm tập chia đúng theo số tập (1001–1100, 1101–1180…), kể cả phim có tập lẻ như 1004.5\n• Trình phát không còn làm tắt app khi máy thiếu RAM: tự mở lại và xem tiếp chỗ cũ"
+    "changelog":  "• Mới: thông báo trên điện thoại khi có bản mới hoặc tin quan trọng (đổi tên miền…) — app tự kiểm tra nền khoảng 3 giờ/lần, bấm vào là cập nhật\n• Mới: đếm số máy đang dùng app bằng tín hiệu ẩn danh (chỉ mã ngẫu nhiên + phiên bản app, không có tài khoản hay lịch sử xem) — tắt được ở Cài đặt → Quyền riêng tư\n• Bấm Kiểm tra cập nhật là thấy ngay bản vừa phát hành (không còn phải chờ tới 5 phút)\n• Android 13 trở lên: app hỏi quyền thông báo một lần"
 }
