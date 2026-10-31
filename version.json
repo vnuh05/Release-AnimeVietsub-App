@@ -1,9 +1,9 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.2.0",
-    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.2.0/AnimeVietSub-1.2.0.apk",
-    "sha256":  "312e18d2247c85efa06456b40314fa30ee70bda64ed2da0a785bd53d87990db1",
+    "versionCode":  11,
+    "versionName":  "1.2.1",
+    "apkUrl":  "https://github.com/vnuh05/Release-AnimeVietsub-App/releases/download/v1.2.1/AnimeVietSub-1.2.1.apk",
+    "sha256":  "c247affa4ee8db1468d901344b7ca715810b239f1b3a01cb1c8cbbb3f6d5f35e",
     "sizeBytes":  3822624,
     "minSdk":  24,
-    "changelog":  "• Trang chủ có hàng Xem tiếp: phát tiếp đúng tập, đúng chỗ đang xem; giữ lâu để xoá khỏi lịch sử\n• Phim dài: chia nhóm 100 tập và ô gõ số tập để nhảy nhanh\n• Bảng xếp hạng có tab Ngày / Tháng / Mùa / Năm / Yêu thích\n• Lịch chiếu theo giờ máy của bạn, có đếm ngược và số tập sắp chiếu\n• Trang phim: tên gốc, thời lượng, điểm, studio, tập sắp lên sóng, nhân vật và diễn viên lồng tiếng (nguồn AniList)\n• Tên miền mặc định mới animevietsub.news — máy đang dùng .nl: Cài đặt → Tên miền → Tự động lấy"
+    "changelog":  "• Sửa: cùng một phim hiện 2 lần ở Xem tiếp (do AVS đổi tên miền .nl → .news hoặc mở phim từ link tập)\n• Lịch sử xem, dấu tập đã xem và tủ phim tự chuyển sang tên miền đang dùng — không còn mất dấu khi AVS đổi tên miền\n• Nhóm tập chia đúng theo số tập (1001–1100, 1101–1180…), kể cả phim có tập lẻ như 1004.5\n• Trình phát không còn làm tắt app khi máy thiếu RAM: tự mở lại và xem tiếp chỗ cũ"
 }
